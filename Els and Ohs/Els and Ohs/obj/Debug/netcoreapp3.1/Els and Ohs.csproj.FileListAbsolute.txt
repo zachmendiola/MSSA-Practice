@@ -1,0 +1,11 @@
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.exe
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.deps.json
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.runtimeconfig.json
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.runtimeconfig.dev.json
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.dll
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\bin\Debug\netcoreapp3.1\Els and Ohs.pdb
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\obj\Debug\netcoreapp3.1\Els and Ohs.csprojAssemblyReference.cache
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\obj\Debug\netcoreapp3.1\Els and Ohs.AssemblyInfoInputs.cache
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\obj\Debug\netcoreapp3.1\Els and Ohs.AssemblyInfo.cs
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\obj\Debug\netcoreapp3.1\Els and Ohs.dll
+C:\Users\Student2\source\repos\Els and Ohs\Els and Ohs\obj\Debug\netcoreapp3.1\Els and Ohs.pdb
