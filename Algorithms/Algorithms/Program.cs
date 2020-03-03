@@ -17,6 +17,7 @@ namespace Algorithms
                 Console.WriteLine(number);
             }
             Console.WriteLine(linky.Find(5));
+            Console.WriteLine(Bracketing("{[(())]}"));
         }
         static int gcd(int a, int b)
         {
@@ -28,6 +29,45 @@ namespace Algorithms
                 b = t % b;
             }
             return a;
+        }
+        static bool Bracketing(string bracket)
+        {
+            Stack<char> temp = new Stack<char>();
+            int f = 0;
+            foreach (char brack in bracket)
+            {
+                temp.Push(brack);
+                if (brack == ')' || brack == ']' || brack == '}')
+                {
+                    temp.Pop();
+
+                    char pop = temp.Pop();
+                    if (brack == ')' && pop != '(')
+                    {
+                        f++;
+                    }
+                    if (brack == ']' && pop != '[')
+                    {
+                        f++;
+                    }
+                    if (brack == '}' && pop != '{')
+                    {
+                        f++;
+                    }
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            if (f > 0)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
     }
 }

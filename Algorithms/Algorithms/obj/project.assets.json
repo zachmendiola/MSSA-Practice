@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elite\\source\\repos\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\elite\\source\\repos\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elite\\source\\repos\\Algorithms\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
