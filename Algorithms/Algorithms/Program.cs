@@ -6,6 +6,8 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
+            int[,] arrayal = new int[3, 3] { { 11, 2, 4 }, { 4, 5, 6 }, { 10, 8, -12 } };
+            diagonalDifference(arrayal);
             Console.WriteLine(gcd(20,8));
             LinkedList<int> linky = new LinkedList<int>();
             for (int i = 0; i < 11; i++)
@@ -68,6 +70,26 @@ namespace Algorithms
             {
                 return true;
             }
+        }
+        public static int diagonalDifference(int[,] arr)
+        {
+            int primary = 0;
+            int secondary = 0;
+            for (int k = 0; k < 3; k++)
+            {
+                primary = primary+ arr[k, k];
+                secondary = secondary + arr[3 - 1 - k, 0 + k];
+
+            }
+            Console.WriteLine(primary);
+            Console.WriteLine(secondary);
+            int ans = primary - secondary;
+            if (ans < 0)
+            {
+                ans = ans * -1;
+            }
+            Console.WriteLine(ans);
+            return ans;
         }
     }
 }

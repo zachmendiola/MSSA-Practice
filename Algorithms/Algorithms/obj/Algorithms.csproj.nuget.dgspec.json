@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Users\\Student2\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj": {
+    "C:\\Users\\Student2\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Student2\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
-        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\obj\\",
+        "projectPath": "C:\\Users\\Student2\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\Algorithms.csproj",
+        "packagesPath": "C:\\Users\\Student2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student2\\Documents\\GitHub\\MSSA-Practice\\Algorithms\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Student2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
