@@ -6,6 +6,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Palindrome("racecar"));
             int[,] arrayal = new int[3, 3] { { 11, 2, 4 }, { 4, 5, 6 }, { 10, 8, -12 } };
             diagonalDifference(arrayal);
             Console.WriteLine(gcd(20,8));
@@ -91,6 +92,17 @@ namespace Algorithms
          
             Console.WriteLine(ans);
             return ans;
+        }
+        public static bool Palindrome(string x)
+        {
+            for (int i = 0, j = x.Length-1; i <= x.Length/2; i++, j--)
+            {
+                if (x[i] != x[j])
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }
