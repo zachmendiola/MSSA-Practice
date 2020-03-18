@@ -1,0 +1,11 @@
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.exe
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.deps.json
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.runtimeconfig.json
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.runtimeconfig.dev.json
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.dll
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\bin\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.pdb
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\obj\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.csprojAssemblyReference.cache
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\obj\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.AssemblyInfoInputs.cache
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\obj\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.AssemblyInfo.cs
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\obj\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.dll
+C:\Users\elite\source\repos\Technical Mentor Call 18 Mar\Technical Mentor Call 18 Mar\obj\Debug\netcoreapp3.1\Technical Mentor Call 18 Mar.pdb

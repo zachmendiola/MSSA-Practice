@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Technical Mentor Call 18 Mar/1.0.0": {
+        "runtime": {
+          "Technical Mentor Call 18 Mar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Technical Mentor Call 18 Mar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
