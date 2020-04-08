@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Techinical 8 APR/1.0.0": {
+        "runtime": {
+          "Techinical 8 APR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Techinical 8 APR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

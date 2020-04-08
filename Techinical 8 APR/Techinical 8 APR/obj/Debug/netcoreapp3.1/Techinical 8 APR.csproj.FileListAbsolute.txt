@@ -1,0 +1,11 @@
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.exe
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.deps.json
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.runtimeconfig.json
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.runtimeconfig.dev.json
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.dll
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\bin\Debug\netcoreapp3.1\Techinical 8 APR.pdb
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\obj\Debug\netcoreapp3.1\Techinical 8 APR.csprojAssemblyReference.cache
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\obj\Debug\netcoreapp3.1\Techinical 8 APR.AssemblyInfoInputs.cache
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\obj\Debug\netcoreapp3.1\Techinical 8 APR.AssemblyInfo.cs
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\obj\Debug\netcoreapp3.1\Techinical 8 APR.dll
+C:\Users\elite\source\repos\Techinical 8 APR\Techinical 8 APR\obj\Debug\netcoreapp3.1\Techinical 8 APR.pdb
