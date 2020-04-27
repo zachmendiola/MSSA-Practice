@@ -1,0 +1,13 @@
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.exe
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.deps.json
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.runtimeconfig.json
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.runtimeconfig.dev.json
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.dll
+C:\Users\elite\source\repos\MergeArray\MergeArray\bin\Debug\netcoreapp3.1\MergeArray.pdb
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.csprojAssemblyReference.cache
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.csproj.CoreCompileInputs.cache
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.AssemblyInfoInputs.cache
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.AssemblyInfo.cs
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.dll
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.pdb
+C:\Users\elite\source\repos\MergeArray\MergeArray\obj\Debug\netcoreapp3.1\MergeArray.genruntimeconfig.cache
